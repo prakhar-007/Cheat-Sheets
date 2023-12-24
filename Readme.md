@@ -1,4 +1,4 @@
-## 🔗 [CheatSheets](https://drivendata.github.io/cookiecutter-data-science/)
+## 🔗 CheatSheets
 
 Just a place to store cheatsheets. Feel free to use!
 
